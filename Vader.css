@@ -79,7 +79,7 @@ body > div{
 }
 input[type="text"]{
     padding: 8px;
-    width: 46.5%;
+    width: 100%;
     font-size: 24px;
 }
 
@@ -196,6 +196,10 @@ form{
     .Commentar{
         width: 50%;
     }
+    input[type="text"]{
+    width: 46.5%;
+    }
     
 
 }
+
